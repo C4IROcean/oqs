@@ -1,0 +1,1 @@
+# Object Query Structure (OQS)
